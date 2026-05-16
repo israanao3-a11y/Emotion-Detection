@@ -2,6 +2,14 @@
 
 Ce dépôt contient l'implémentation pratique du **TP6** dédié à l'apprentissage automatique et à la classification des émotions à partir d'images faciales réelles, basé sur le framework **TensorFlow** et la bibliothèque **OpenCV**.
 
+## 📊 Résultat Final du Projet
+
+Voici un aperçu visuel des prédictions obtenues sur les 5 images de test réelles après le prétraitement et l'analyse :
+
+<p align="center">
+  <img src="screenshot.png" alt="Résultat Final du Pipeline de Test" width="650px">
+</p>
+
 ---
 
 ## 🚀 Fonctionnalités du Projet
