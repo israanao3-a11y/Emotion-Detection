@@ -1,13 +1,13 @@
-# TP : Reconnaissance des Émotions Faciales (Deep Learning & Computer Vision)
+# TP: Reconnaissance des Émotions Faciales (Deep Learning & Computer Vision)
 
 Ce dépôt contient l'implémentation pratique du **TP6** dédié à l'apprentissage automatique et à la classification des émotions à partir d'images faciales réelles, basé sur le framework **TensorFlow** et la bibliothèque **OpenCV**.
 
 ## 📊 Résultat Final du Projet
 
-Voici un aperçu visuel des prédictions obtenues sur les 5 images de test réelles après le prétraitement et l'analyse :
+Voici l'aperçu visuel des prédictions obtenues sur les visages de test réels après le prétraitement et l'analyse par notre pipeline :
 
 <p align="center">
-  <img src="screenshot.png" alt="Résultat Final du Pipeline de Test" width="650px">
+  <img src="photoAncienne.jpeg" alt="Résultat Final du Pipeline de Test" width="600px">
 </p>
 
 ---
@@ -15,7 +15,7 @@ Voici un aperçu visuel des prédictions obtenues sur les 5 images de test réel
 ## 🚀 Fonctionnalités du Projet
 * **Prétraitement des données :** Conversion dynamique des images réelles en niveaux de gris et redimensionnement automatique au format standard $48 \times 48$ pixels (conforme au dataset FER-2013).
 * **Pipeline d'Inférence :** Chargement des scripts et exécution des prédictions logiques sur des visages réels.
-* **Visualisation Graphique :** Affichage soigné de 5 visages de test alignés avec leurs prédictions respectives affichées en vert (`Happy`, `Neutral`, `Sad`, `Surprise`, `Angry`) via **Matplotlib**.
+* **Visualisation Graphique :** Affichage soigné des visages de test alignés avec leurs prédictions respectives affichées en vert (`Happy`, `Neutral`, `Sad`, `Surprise`, `Angry`) via **Matplotlib**.
 
 ---
 
@@ -23,7 +23,7 @@ Voici un aperçu visuel des prédictions obtenues sur les 5 images de test réel
 L'arborescence du dépôt se présente comme suit :
 * `test_images.py` : Script principal pour le traitement des images, l'inférence logicielle et l'affichage des résultats.
 * `train_emotion.py` : Script dédié à la configuration et à la logique d'entraînement du modèle.
-* `Photo.jpg`, `image1.jpg`, `image2.jpg`, `image3.jpg`, `photoAncienne.jpeg` : Les 5 images réelles utilisées pour valider le modèle de test.
+* `Photo.jpg`, `image1.jpg`, `image2.jpg`, `image3.jpg`, `photoAncienne.jpeg` : Les images réelles utilisées pour valider le modèle de test.
 
 ---
 
