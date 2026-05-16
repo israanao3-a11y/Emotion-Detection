@@ -41,5 +41,9 @@ Lors du développement en environnement local (VS Code), plusieurs défis techni
 * **Language :** Python 3.11
 * **Deep Learning Framework :** TensorFlow / Keras
 * **Computer Vision :** OpenCV (cv2)
+* ### 🧠 Architecture du Modèle CNN
+<p align="center">
+  <img src="cnn_architecture.png" alt="Architecture CNN" width="650px">
+</p>
 * **Data Visualization :** Matplotlib
 * **Version Control :** Git / GitHub
