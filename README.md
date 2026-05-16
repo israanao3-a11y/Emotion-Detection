@@ -1,6 +1,6 @@
 # TP: Reconnaissance des Émotions Faciales (Deep Learning & Computer Vision)
 
-Ce dépôt contient l'implémentation pratique du **TP6** dédié à l'apprentissage automatique et à la classification des émotions à partir d'images faciales réelles, basé sur le framework **TensorFlow** et la bibliothèque **OpenCV**.
+Ce dépôt contient l'implémentation pratique du **TP** dédié à l'apprentissage automatique et à la classification des émotions à partir d'images faciales réelles, basé sur le framework **TensorFlow** et la bibliothèque **OpenCV**.
 
 ## 📊 Résultat Final du Projet
 
@@ -41,9 +41,5 @@ Lors du développement en environnement local (VS Code), plusieurs défis techni
 * **Language :** Python 3.11
 * **Deep Learning Framework :** TensorFlow / Keras
 * **Computer Vision :** OpenCV (cv2)
-* ### 🧠 Architecture du Modèle CNN
-<p align="center">
-  <img src="cnn_architecture.png" alt="Architecture CNN" width="650px">
-</p>
 * **Data Visualization :** Matplotlib
 * **Version Control :** Git / GitHub
